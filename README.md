@@ -19,7 +19,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwindcss/tailwindcss.png" width="48" height="48" alt="Tailwind CSS" />
+      <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
   </tr>
